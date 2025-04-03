@@ -34,3 +34,11 @@ The settings are stored in python file named config.py:
 **model_file is the path to the car make and model classifier classifier_input_size is the input size of the classifier label_file is the path to the text file, containing a list with the supported makes and models**
 
 **The make and model classifier is based on MobileNetV2 mobile architecture:** https://arxiv.org/abs/1801.04381
+
+**INPUT IMAGE**
+
+![cars](https://github.com/user-attachments/assets/501ed75b-6272-4afc-b2bc-357f78779a8f)
+
+**OUTPUT IMAGE**
+
+![output](https://github.com/user-attachments/assets/d57205ef-ee47-4c2e-ae99-9a6971eb0d24)
